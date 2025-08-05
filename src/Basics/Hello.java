@@ -1,13 +1,14 @@
 package Basics;
 
 public class Hello {
-    static void printHello(){
+    void printHello(){
         System.out.println("hello");
     }
 }
 
 class Demo{
     public static void main(String[] args) {
-        Hello.printHello();
+        Hello obj = new Hello();
+        obj.printHello();
     }
 }
