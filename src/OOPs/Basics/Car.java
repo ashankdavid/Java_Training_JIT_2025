@@ -1,8 +1,8 @@
-package OOPs;
+package OOPs.Basics;
 
 public class Car {
-    String brandName;
-    int manuDate;
+    private String brandName;
+    private int manuDate;
 
     Car(String bName, int mDate){
         brandName = bName;
@@ -20,4 +20,8 @@ public class Car {
         c1.printDetails();
         c2.printDetails();
     }
+}
+
+class Driver{
+
 }
