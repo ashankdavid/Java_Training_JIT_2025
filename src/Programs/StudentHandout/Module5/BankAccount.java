@@ -1,4 +1,4 @@
-package Programs.Module5;
+package Programs.StudentHandout.Module5;
 
 import java.util.Scanner;
 

@@ -1,6 +1,5 @@
-package Programs.Module3;
+package Programs.StudentHandout.Module3;
 
-import java.util.Map;
 import java.util.Scanner;
 
 public class MinimumTimeTravel {
